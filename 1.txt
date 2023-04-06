@@ -1,2 +1,3 @@
 this is my first file
 second line for hot fix branch
+for feature2
